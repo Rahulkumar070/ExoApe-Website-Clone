@@ -46,7 +46,7 @@ function Working() {
             autoPlay
             muted
             className="sm:h-[52rem] mt-5 p-5"
-            src="https://download-video.akamaized.net/v3-1/playback/66710880-7060-4d65-965e-38a29da54c52/5ac47112?__token__=st=1720188694~exp=1720203094~acl=%2Fv3-1%2Fplayback%2F66710880-7060-4d65-965e-38a29da54c52%2F5ac47112%2A~hmac=4b83849e814524dc10d18b94a26c231e3aba51bcad2b23381089adb2b819e1c7&r=dXMtY2VudHJhbDE%3D"
+            src="https://player.vimeo.com/progressive_redirect/playback/914798484/rendition/720p/file.mp4?loc=external&log_user=0&signature=666d8099e0f1361eb1766ec0592b63a9bdf2b303cdb12ddfa5789d20ce8f523b"
           ></video>
           <div className="sm:hidden px-5">
             <h1>Rino & Pelle</h1>
@@ -79,7 +79,7 @@ function Working() {
             autoPlay
             muted
             className="sm:h-[30rem] sm:mt-[20rem] -mt-24 p-5"
-            src="https://download-video.akamaized.net/v3-1/playback/4bdb3586-71c8-40be-b000-2ba5691333a3/dee0a4f7?__token__=st=1720188864~exp=1720203264~acl=%2Fv3-1%2Fplayback%2F4bdb3586-71c8-40be-b000-2ba5691333a3%2Fdee0a4f7%2A~hmac=0c2339a6e5808241f3c5849fcb3778eed16233c471ae507f50d6592248651ab5&r=dXMtY2VudHJhbDE%3D"
+            src="https://player.vimeo.com/progressive_redirect/playback/927016456/rendition/720p/file.mp4?loc=external&log_user=0&signature=270ce5ba6bf44a717c74cf85de5f3de1d33a36ba5205b660e5e23b873199d71a"
           ></video>
           <div className="sm:hidden px-5">
             <h1>Columbia Pictures</h1>
@@ -93,7 +93,7 @@ function Working() {
           autoPlay
           muted
           className="sm:h-[25rem] sm:mt-[20rem] p-5 -mt-2"
-          src="https://download-video.akamaized.net/v3-1/playback/57423169-59cb-4b8a-ad09-3bd812a12ee7/4ce94964?__token__=st=1720189052~exp=1720203452~acl=%2Fv3-1%2Fplayback%2F57423169-59cb-4b8a-ad09-3bd812a12ee7%2F4ce94964%2A~hmac=eb9a026e4a14bb2d6c56711304787018ceeca494ba32247e1bc26ebb20b11129&r=dXMtd2VzdDE%3D"
+          src="https://player.vimeo.com/progressive_redirect/playback/914798271/rendition/720p/file.mp4?loc=external&log_user=0&signature=2af493277d050009920c26416a8d62a9a8c316353242c609ee157fcf1e300076"
         ></video>
         <div className="sm:hidden px-5">
           <h1>Aebele Interiors</h1>
@@ -104,7 +104,7 @@ function Working() {
           autoPlay
           muted
           className="sm:h-[35rem] p-5"
-          src="https://download-video.akamaized.net/v3-1/playback/bfac2114-1cd7-4a50-8b21-ec941cbfb811/1f289d51?__token__=st=1720189173~exp=1720203573~acl=%2Fv3-1%2Fplayback%2Fbfac2114-1cd7-4a50-8b21-ec941cbfb811%2F1f289d51%2A~hmac=fb27dcdbe872163394171a43f651f4042a0a23b77c7982473e48021ee61fae49&r=dXMtd2VzdDE%3D"
+          src="https://player.vimeo.com/progressive_redirect/playback/914796979/rendition/540p/file.mp4?loc=external&log_user=0&signature=57ac30ff6fc3b29802f7414617e808395306f0b0fa5c9c6e3ef483a532f49c15"
         ></video>
         <div className="sm:hidden px-5">
           <h1>Pixelflakes</h1>
